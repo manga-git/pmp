@@ -49,7 +49,9 @@ PMP Notes:
 > ORGANIZATIONAL Project Management (OPM):
 	- a framework for HOW projects, portfolios, & org work should be done to meet the org's strategic goals.
 
-> OPM and OPM3
+> OPM3: 
+	- OPM3 is PMI's organizational project maturity model.
+	- helps orgs determine their level of maturity in project management.
 
 > PMO
 	- centralizes and standardizes management of projects in an organization.
@@ -75,11 +77,13 @@ PMP Notes:
 
 > Constraints
 	- include: scope, time, costs, resources, quality, risk, & customer satisfaction
+		>> Smelly Tortoises Chased Rolled Quinoa Round Curly Sharks <<
+
 	- help evaluate conflicting demands
 	- should be prioritized
 
 > Stakeholder:
-	- any person or org that will be impacted by the project.
+	- any person or org that will be affected +vely or -vely by the outcome of the project.
 	- should be:
 		- kept informed, 
 		- inputs solicited, 
@@ -107,13 +111,13 @@ PMP Notes:
 
 	- For PMP exam, assume org is a Matrix org.
 
-> Project manager types in a weak matrix (functional org)
+> PM types in a WEAK matrix (ONLY in a functional org)
 	- Project Expediter
-		- PM is like an assistant and communications coordinator
-		- Pm does not make or enforce decisions
+		- is like an assistant and communications coordinator. Keeps traack of status and reports it.
+		- does not make or enforce decisions
 
 	- Project Coordinator
-		- has some more powers - makes and enforces decisions
+		- has some more powers - makes and enforces decisions.
 
 > Enterprise environmental factors: company culture and existing systems/baggage.
 
@@ -148,12 +152,28 @@ PMP Notes:
 	- PLC can be plan-driven projects like waterfall projects, or change-driven like agile projects.
 	- PMP includes the 5 process groups (plastic explorers - colorful cabbages!)
 
+================================================================
+> As a PM you should understand why the project was selected:
+	- to enter a new market?
+	- to meet a governance expectation or regulatory requirement?
+	- pet project of some senior exec?
+	- customer request?
+	- intangible objective like improve company's image?
 
+> The 5 process groups basically map to: start, plan, do, check, close.
 
+> Integration Process Group:
+	- Outputs of this process group: Project Charter and Stakeholder Registry.
 
+> Progressive Elaboration: process of continously refining estimates and scope.
 
+> Planning Process Group:
+	- Outputs: Project Management Plan and project documents that will guide execution of the project.	
+	- Rolling wave planning: Planning for the next phase as when current phase nears completion.
+	- Inputs from ALL stakeholders are used to create the project plan.
 
-
+> Executing Process Group:
+	- PM basically has a guiding, proactive role during this phase, always referring to project plan & project docs.
 
 
 
